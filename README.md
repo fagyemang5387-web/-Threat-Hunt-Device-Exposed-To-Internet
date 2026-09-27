@@ -140,6 +140,4 @@ Although the VM was exposed and brute-force attempts were made, no suspicious or
 - Implement lockout policies, alerting, NSG restrictions
 ---
 
-> **Created with Microsoft Defender and Sentinel with KQL analysis on Microsoft Azure**  
-> **Project by James Moore | [GitHub](https://github.com/techgneek) | [YouTube](https://youtube.com/@techgneek) | [LinkedIn](https://linkedin.com/in/jamesmoore1983)**
 
